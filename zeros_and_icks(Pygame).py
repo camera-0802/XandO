@@ -12,6 +12,7 @@ field_color = (245,245,245)
 lines_color = (205,205,205)
 x_color = (255,0,0)
 o_color = (0,0,255)
+l_color = (205,205,0)
 board = [None] * 9
 current_player = 'x'
 font = pygame.font.SysFont('Arial', 72, bold=True)
